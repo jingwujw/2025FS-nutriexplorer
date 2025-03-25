@@ -11,7 +11,7 @@ Tailored for the FCS students at HSG, this app demonstrates how you can use stre
 
 ### Getting Started
 #### Demo
-
+https://nutri-explorer.streamlit.app/
 
 #### Prerequisites
 
@@ -22,8 +22,7 @@ Tailored for the FCS students at HSG, this app demonstrates how you can use stre
 ***1. Clone this repository***
 
 ```bash
-git clone 
-cd nutristorage-streamlit
+git clone https://github.com/jingwujw/2025FS-nutriexplorer
 ```
 ***2. Create a conda env*** 
 ```bash 
