@@ -15,7 +15,7 @@ Tailored for the FCS students at HSG, this app demonstrates how you can use stre
 
 #### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12 (to be compatible with streamlit deployment)
 - [Conda installation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 #### Installation
@@ -27,7 +27,7 @@ cd nutristorage-streamlit
 ```
 ***2. Create a conda env*** 
 ```bash 
-conda create -n streamlit_nutristorage_app python=3.8
+conda create -n streamlit_nutristorage_app python=3.12
 conda activate streamlit_nutristorage_app
 ```
 
